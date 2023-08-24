@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @zjuwispersure
-- 👀 I’m interested in running and learning new skill in AI fields
-- 🌱 I’m currently learning deeplearning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 喜欢跑步，挑战一年1000公里+； 
+- 🌱 关注机器学习的最新动态，近期开始多梳理多记录。
+- 📫 可通过534207987@qq.com联系。
 
-<!---
-zjuwispersure/zjuwispersure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
